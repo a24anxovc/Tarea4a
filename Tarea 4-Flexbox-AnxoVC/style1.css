@@ -1,0 +1,112 @@
+ body {
+     font-family: Arial, sans-serif;
+     background-color: #f4f4f9;
+     color: #333;
+     padding: 5px;
+     box-sizing: border-box;
+     height: 100vh;
+ }
+
+
+
+ #container {
+
+     background-color: white;
+     border-collapse: collapse;
+     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     width: 100%;
+     height: 100%;
+     table-layout: fixed;
+
+ }
+
+ th {
+     border: 2px solid black;
+     text-align: left;
+     vertical-align: middle;
+     height: 100%;
+     font-size: 0.9em;
+     height: 40px;
+ }
+
+ .td {
+     border: 1px solid black;
+
+ }
+
+ td {
+     border: 2px solid black;
+     text-align: center;
+     vertical-align: middle;
+     height: 100%;
+     font-size: 0.9em;
+     min-height: 80px;
+     height: 9.09%;
+ }
+
+ thead th {
+     background-color: #FFFFFF;
+     color: black;
+     font-weight: bold;
+     width: 70px;
+     text-align: center;
+ }
+
+ tr {
+     height: auto;
+
+ }
+
+ .hora {
+     font-weight: bold;
+     background-color: #FFFFFF;
+     width: 40px;
+     font-size: 0.8em;
+     text-align: center;
+
+ }
+
+
+ .SEGUR_INFORM {
+     background-color: #DBE5F1;
+ }
+
+ .APLIC_WEB {
+     background-color: #FFFF00;
+ }
+
+
+ .SERVIZOS_REDE {
+     background-color: #C2D69B;
+ }
+
+
+ .S_O_R {
+     background-color: #FDE9D9;
+ }
+
+
+ .HCLE {
+     background-color: #B2A1C7;
+ }
+
+
+ .DIXITALIZACION {
+     background-color: #FFFFFF;
+ }
+
+ .AFONDAMENTO {
+     background-color: #C4BC96;
+ }
+
+ .IPE {
+     background-color: #00B0F0;
+ }
+
+ .gris {
+     color: #818080;
+ }
+
+ .gris1 {
+     color: #80808D;
+ }
